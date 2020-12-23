@@ -14,5 +14,4 @@ class SKEWER_API UGameGlobalSettings : public UDataAsset
 {
 	GENERATED_BODY()
 	
-	UPROPERTY(EditAnywhere)
 };
